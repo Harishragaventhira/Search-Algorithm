@@ -117,10 +117,16 @@ else:
 # use if-else to print sorted array and "Element not found" if the item is not present in the list otherwise print sorted array and "Element found at index: ", result
 
 ```
-## Sample Input and Output
-![Screenshot 2024-01-02 141701](https://github.com/Harishragaventhira/Search-Algorithm/assets/145548269/7d1c3d8a-52c4-4bd0-a069-8433937ab8e8)
-![Screenshot 2024-01-02 141828](https://github.com/Harishragaventhira/Search-Algorithm/assets/145548269/21d6d789-1898-4930-b330-d713d0136d42)
-![Screenshot 2024-01-02 141937](https://github.com/Harishragaventhira/Search-Algorithm/assets/145548269/20b094be-ee64-475f-9489-e136f3493f93)
+## sample input and output:
+![Screenshot 2024-01-02 211522](https://github.com/Harishragaventhira/Search-Algorithm/assets/145548269/e59bbfea-f257-4c42-8bb5-1fb327f0a85f)
+![Screenshot 2024-01-02 211537](https://github.com/Harishragaventhira/Search-Algorithm/assets/145548269/75f09ce2-ce74-4ab7-964c-adc671e7b06f)
+![Screenshot 2024-01-02 211555](https://github.com/Harishragaventhira/Search-Algorithm/assets/145548269/11b11c7f-133f-40f9-9108-1d464dcfee31)
+## output:
+![Screenshot 2024-01-02 211638](https://github.com/Harishragaventhira/Search-Algorithm/assets/145548269/78f9ed0b-5b89-44fc-aa41-3187b540b03b)
+![Screenshot 2024-01-02 211657](https://github.com/Harishragaventhira/Search-Algorithm/assets/145548269/8695db2d-ea8a-4477-bca9-ad595db00c39)
+![Screenshot 2024-01-02 211710](https://github.com/Harishragaventhira/Search-Algorithm/assets/145548269/da830113-ad2a-478e-8cf2-9560970d1499)
+
+
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
